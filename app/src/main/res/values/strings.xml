@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GlassHelloWithOCV</string>
+    <string name="title_activity_main">Ako ovo ne upali, zapalicu vas</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

@@ -1,0 +1,4 @@
+#Thu Jun 14 04:09:59 CEST 2018
+base.0=E\:\\UIB_2016_2017\\Master_thesis\\SettingUPOpenCvTutorial\\GlassHelloWithOCV\\openCVSample15puzzle\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
