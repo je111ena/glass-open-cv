@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
         } else {
             Log.d(this.getClass().getSimpleName(), "  OpenCVLoader.initDebug(), working.");
         }
-        String inputFileName="simm_01";
+        String inputFileName="20180627_054702_108";
         String inputExtension = "jpg";
         String inputDir = getFilesDir() .getAbsolutePath();  // use the cache directory for i/o
         String outputDir = getCacheDir().getAbsolutePath();
